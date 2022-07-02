@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="kerneldeint"
+	ProjectGUID="{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}"
+	VCNestedProjectGUID="{0E906812-6903-4BC6-9F4F-B917662C9A69}"
+	VCNestedProjectFileName="kerneldeint.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|x64">
+			<Tool
+				Name="GeneralTool"
+				InterproceduralOptimization="true"/>
+			<Tool
+				Name="CppCmplrTool"
+				GlobalOptimizations="true"
+				EnableEnhancedInstructionSet="1000"
+				UseIntelOptimizedHeaders="true"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>

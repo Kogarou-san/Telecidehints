@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{EAF909A5-FA59-4C3D-9431-0FCC20D5BCF9}") = "kerneldeint", "kerneldeint.icproj", "{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Debug|Win32.Build.0 = Debug|Win32
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Debug|x64.ActiveCfg = Debug|x64
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Debug|x64.Build.0 = Debug|x64
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Release|Win32.ActiveCfg = Release|Win32
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Release|Win32.Build.0 = Release|Win32
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Release|x64.ActiveCfg = Release|x64
+		{EDCF8924-EB3B-421B-8287-A0B90A4AAFC6}.Release|x64.Build.0 = Release|x64
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Release|x64.Build.0 = Release|x64
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Release|x64.ActiveCfg = Release|x64
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Release|Win32.Build.0 = Release|Win32
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Release|Win32.ActiveCfg = Release|Win32
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Debug|x64.Build.0 = Debug|x64
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Debug|x64.ActiveCfg = Debug|x64
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Debug|Win32.Build.0 = Debug|Win32
+		{0E906812-6903-4BC6-9F4F-B917662C9A69}.Debug|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
